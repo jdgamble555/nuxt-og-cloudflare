@@ -11,7 +11,7 @@ defineProps<{ title: string }>()
       {{ title }}
     </div>
     <div class="mt-5 text-[30px] text-gray-600">
-      Generated with Nuxt ImageResponse and deployed to Vercel Edge
+      Generated with Nuxt ImageResponse and deployed to Cloudflare
     </div>
   </div>
 </template>
