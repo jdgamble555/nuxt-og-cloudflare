@@ -1,4 +1,4 @@
-import { ImageResponse } from '@cf-wasm/og/workerd';
+import { ImageResponse } from '@cf-wasm/og';
 import { html } from 'satori-html';
 import { createSSRApp, h } from 'vue';
 import { renderToString } from 'vue/server-renderer';
